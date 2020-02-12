@@ -1,0 +1,14 @@
+.container {text-align:center; width: 700px; border: 10px; padding: 5px; margin: 10px; margin-left:400px; box-align: center; background-color:black }
+.word {color:white;}
+.word:hover {color:blue;}
+body {background-image: url("background.jpg");}
+h1 {background-color:#f7cac9; color:black;}
+p {background-color:black; color:#f7cac9; font-size:15px;}
+h2 {background-color:#ffc0ef; color:black; font-size:15px;}
+h3 {background-color:#ffc0ef; color:black; font-size:15px;}
+h4 {background-color:#ffc0ef; color:black; font-size:15px;}
+ul {background-color:black; color:white; font-size:15px; border-style:dotted; border-color:#ffc0ef; list-style-position:inside; text-align:justify; margin-left:200px; margin-right:150px;}
+ol {background-color:black; color:white; font-size:15px; border-style:dotted; border-color:#ffc0ef;list-style-position:inside;text-align:justify; margin-left:200px; margin-right:150px;}
+table, td, th {margin:auto; text-align:center; background-color:black; color:white; font-size:15px; border:5px; border-color:#ffc0ef; border-style:solid;}
+img {margin:auto; border: 5px; border-color:#ffc0ef; width:10%;}
+video {width:15%;}
